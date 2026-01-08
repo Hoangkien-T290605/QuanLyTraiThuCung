@@ -1,0 +1,15 @@
+D:\DuAn_QuanLyThuCung\Chude47.QuanLyTraiThuCung\Chude47.QuanLyTraiThuCung\bin\Debug\Chude47.QuanLyTraiThuCung.exe.config
+D:\DuAn_QuanLyThuCung\Chude47.QuanLyTraiThuCung\Chude47.QuanLyTraiThuCung\bin\Debug\Chude47.QuanLyTraiThuCung.exe
+D:\DuAn_QuanLyThuCung\Chude47.QuanLyTraiThuCung\Chude47.QuanLyTraiThuCung\bin\Debug\Chude47.QuanLyTraiThuCung.pdb
+D:\DuAn_QuanLyThuCung\Chude47.QuanLyTraiThuCung\Chude47.QuanLyTraiThuCung\obj\Debug\Chude47.QuanLyTraiThuCung.csproj.AssemblyReference.cache
+D:\DuAn_QuanLyThuCung\Chude47.QuanLyTraiThuCung\Chude47.QuanLyTraiThuCung\obj\Debug\Chude47.QuanLyTraiThuCung.frmChamSocDichVu.resources
+D:\DuAn_QuanLyThuCung\Chude47.QuanLyTraiThuCung\Chude47.QuanLyTraiThuCung\obj\Debug\Chude47.QuanLyTraiThuCung.frmDanhSachDungDV.resources
+D:\DuAn_QuanLyThuCung\Chude47.QuanLyTraiThuCung\Chude47.QuanLyTraiThuCung\obj\Debug\Chude47.QuanLyTraiThuCung.frmLogin.resources
+D:\DuAn_QuanLyThuCung\Chude47.QuanLyTraiThuCung\Chude47.QuanLyTraiThuCung\obj\Debug\Chude47.QuanLyTraiThuCung.frmThongTinThuCung.resources
+D:\DuAn_QuanLyThuCung\Chude47.QuanLyTraiThuCung\Chude47.QuanLyTraiThuCung\obj\Debug\Chude47.QuanLyTraiThuCung.frmTrangChu.resources
+D:\DuAn_QuanLyThuCung\Chude47.QuanLyTraiThuCung\Chude47.QuanLyTraiThuCung\obj\Debug\Chude47.QuanLyTraiThuCung.Properties.Resources.resources
+D:\DuAn_QuanLyThuCung\Chude47.QuanLyTraiThuCung\Chude47.QuanLyTraiThuCung\obj\Debug\Chude47.QuanLyTraiThuCung.csproj.GenerateResource.cache
+D:\DuAn_QuanLyThuCung\Chude47.QuanLyTraiThuCung\Chude47.QuanLyTraiThuCung\obj\Debug\Chude47.QuanLyTraiThuCung.csproj.CoreCompileInputs.cache
+D:\DuAn_QuanLyThuCung\Chude47.QuanLyTraiThuCung\Chude47.QuanLyTraiThuCung\obj\Debug\Chude47.QuanLyTraiThuCung.exe
+D:\DuAn_QuanLyThuCung\Chude47.QuanLyTraiThuCung\Chude47.QuanLyTraiThuCung\obj\Debug\Chude47.QuanLyTraiThuCung.pdb
+D:\DuAn_QuanLyThuCung\Chude47.QuanLyTraiThuCung\Chude47.QuanLyTraiThuCung\obj\Debug\Chude47.QuanLyTraiThuCung.frmDanhSachHoaDon.resources
